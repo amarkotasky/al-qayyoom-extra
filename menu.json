@@ -1,0 +1,349 @@
+[
+  {
+    "category": "Gravy Combo",
+    "id": "gravy-combo",
+    "items": [
+      {
+        "name": "Butter Chicken Rice Combo",
+        "available": 1,
+        "original_price": 369,
+        "price": 369,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/YHdImomplsFnSy53mbFMPxIgrpMxIZ5wz9AmqdMh.jpg"
+      },
+      {
+        "name": "Chicken Korma Rice Combo",
+        "available": 1,
+        "original_price": 349,
+        "price": 349,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/mLyJPVGTe8U4seyWFd9Ize2lNj8Nnj6BdWRHgoAe.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Starters",
+    "id": "starters",
+    "items": [
+      {
+        "name": "Chicken Lollipop (6 pieces)",
+        "available": 1,
+        "original_price": 299,
+        "price": 299,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/PKdB5DMuV5qpsVcD5xdITdZGxgHMhiqhXqA8kOk7.jpg"
+      },
+      {
+        "name": "Crispy Kebab (4 pieces)",
+        "available": 1,
+        "original_price": 185,
+        "price": 185,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/Mq920hM8u8a1XPFsC8RwCFC5RRFzmQHXz9E4DWYs.jpg"
+      },
+      {
+        "name": "Malai Tikka Roll (2 pieces)",
+        "available": 1,
+        "original_price": 199,
+        "price": 199,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/QST0ae9xz8MziDsC4yG1jIzTPKo3gscBTaE450mQ.jpg"
+      },
+      {
+        "name": "Paneer Tikka",
+        "available": 1,
+        "original_price": 375,
+        "price": 375,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/3nm6RSntxVKf4nlGg8vBd8sIKD8K2GM3wgqmT8jD.jpg"
+      },
+      {
+        "name": "Chicken Tikka",
+        "available": 1,
+        "original_price": 380,
+        "price": 380,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/ljgcK6CTDDKk0FIOBBQWb6PrlHKne3APaoWeJHdu.jpg"
+      },
+      {
+        "name": "Tandoori Chicken",
+        "available": 1,
+        "original_price": 310,
+        "price": 310,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/W4ZVVTDYrtP3cVtANE3QHLm3KkgPczP86Ry8Iyz2.jpg"
+      },
+      {
+        "name": "Grilled Chicken",
+        "available": 1,
+        "original_price": 375,
+        "price": 375,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/vyaM5wpITMJ0NPoouz007bcI1C6hCgFqnwoN3W8H.jpg"
+      },
+      {
+        "name": "French Fries",
+        "available": 1,
+        "original_price": 125,
+        "price": 125,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/IoiRikAWqlygwHys5naHdPTLQrGBWFaa3aLIab4z.jpg"
+      },
+      {
+        "name": "Chicken Barra",
+        "available": 1,
+        "original_price": 310,
+        "price": 310,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/IhlkzkvTqldWcpKvaM9jQ8glYBFP7r7YGrrvMoSs.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Kebabs",
+    "id": "kebabs",
+    "items": [
+      {
+        "name": "Chicken Galawati Kebab (2 pieces)",
+        "available": 1,
+        "original_price": 110,
+        "price": 110,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/OlTzY0BiZBsMYiGP66ded3EG0hhxNKrx05ZUCaZS.jpg"
+      },
+      {
+        "name": "Veg Galawati Kebab (2 pieces)",
+        "available": 1,
+        "original_price": 99,
+        "price": 99,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/EXKR6kGpRFJHK2USLJD9taKEev0BK9BnNV0yIHNb.jpg"
+      },
+      {
+        "name": "Mutton Galawati Kebab (2 pieces)",
+        "available": 1,
+        "original_price": 160,
+        "price": 160,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/n3Y45ynzVr2TJrWdY2MA4bELB7zjE0cp8Af1OB3D.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Breads",
+    "id": "breads",
+    "items": [
+      {
+        "name": "Rumali Roti",
+        "available": 1,
+        "original_price": 40,
+        "price": 40,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/QvfBEfIzG3w2m3Jwz2WGudszxDCeAvkuOFmt86fL.jpg"
+      },
+      {
+        "name": "Mughlai Paratha",
+        "available": 0,
+        "original_price": 60,
+        "price": 60,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/X9bao2smhnxQ2kmn2P8lSbYGeQpAVvJehEZ0iMpA.jpg"
+      },
+      {
+        "name": "Laccha Paratha",
+        "available": 1,
+        "original_price": 120,
+        "price": 120,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/7cZY7OyrWLOKh6FBCBqUK1XOKNjK02k4HWqONwGt.jpg"
+      },
+      {
+        "name": "Peshawari Naan",
+        "available": 0,
+        "original_price": 99,
+        "price": 99,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/Ojz7mwzZa2Ct0ElLJAE6A3rUfDyF3UDzEs2OEf8x.jpg"
+      },
+      {
+        "name": "Gauzaban Naan",
+        "available": 0,
+        "original_price": 60,
+        "price": 60,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/pnSiDFLGP0IDzaBQKCS59jw462Vvdzkd0D2sbMil.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Biryani",
+    "id": "biryani",
+    "items": [
+      {
+        "name": "Chicken Mughlai Biryani",
+        "available": 1,
+        "original_price": 280,
+        "price": 280,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/lFMyuLwXFGkNR5aJXErGrumAlvXtBimuzLMws0cC.jpg"
+      },
+      {
+        "name": "Chicken Hydrabadi Dum Biryani",
+        "available": 1,
+        "original_price": 280,
+        "price": 280,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/VWxDrVnKaU2Vq8a6vyCgWH32KipYEKigQnW2KEcM.jpg"
+      },
+      {
+        "name": "AL Qayyoom Special Chicken Biryani",
+        "available": 1,
+        "original_price": 340,
+        "price": 340,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/BLO3lSx2EjCq9bSI6BNEGpxeznM3gx32oIaie1WV.png"
+      },
+      {
+        "name": "Chicken Biryani Rice",
+        "available": 1,
+        "original_price": 149,
+        "price": 149,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/sam17hlWoETS60lYTNZ5BNg8J6Q7utG4Y5cC8Y03.jpg"
+      },
+      {
+        "name": "Mutton Mughlai Biryani",
+        "available": 1,
+        "original_price": 375,
+        "price": 375,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/JAruxSRPN0n7n2u1WI9s5h3NKrdWfkTWDEGQ1gzC.jpg"
+      },
+      {
+        "name": "Hyderabadi Mutton Dum Biryani",
+        "available": 1,
+        "original_price": 375,
+        "price": 375,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/K5Okutlb8kT6tMTtzaRtyBTFVmmiag8czc1ZQV46.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Mandi",
+    "id": "mandi",
+    "items": [
+      {
+        "name": "Grilled Chicken Mandi",
+        "available": 1,
+        "original_price": 399,
+        "price": 399,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/rCBPW1keBC6XJwHOiO05zKRs9vlocYevMcZ5xKhD.jpg"
+      },
+      {
+        "name": "Tandoor Galawati Chicken Platter Mandi",
+        "available": 1,
+        "original_price": 399,
+        "price": 399,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/GhNA1Cr0TUHAayYE4StdSnkYwmg7nMiVoGSmzcE8.png"
+      },
+      {
+        "name": "Mutton Kabuli Mandi",
+        "available": 1,
+        "original_price": 899,
+        "price": 899,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/SNN6LqvcqkxEDUUSaRSzD2bBVZfcOPMJ4W9lFXpB.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Momos",
+    "id": "momos",
+    "items": [
+      {
+        "name": "Steam Momos",
+        "available": 1,
+        "original_price": 125,
+        "price": 125,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/V2KM9MrnNc5nDUxdHRwgJCoxg80PTKqeZDYyn31o.jpg"
+      },
+      {
+        "name": "Fried Momos",
+        "available": 1,
+        "original_price": 149,
+        "price": 149,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/rudBk3wqK6D70hLTTAaTxhYZgs20D6dyz648jwQk.jpg"
+      },
+      {
+        "name": "Tandoori Momos",
+        "available": 1,
+        "original_price": 200,
+        "price": 200,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/KKXzET7phshFZ80qZzpIIQgAMuCLNbYSccPVhfwT.jpg"
+      },
+      {
+        "name": "Afghani Momos",
+        "available": 1,
+        "original_price": 200,
+        "price": 200,
+        "img": "https://cdn1.site-media.eu/images/0/15446076/Paneer-Afghani-Momo-scaled1-dIpA2zKsr4frNa47S3ZI7Q.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Rolls",
+    "id": "rolls",
+    "items": [
+      {
+        "name": "Shawarma Roll",
+        "available": 1,
+        "original_price": 150,
+        "price": 150,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/MAtJn3ugpJwvnp05PIJt2p38za1sjhGCEakPYQYN.jpg"
+      },
+      {
+        "name": "Chicken Galawati Kawab Roll",
+        "available": 1,
+        "original_price": 150,
+        "price": 150,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/VUjKnbS5SnjRZR8vjdP1zM2UZ4ebDrIAXh5lsdF7.jpg"
+      },
+      {
+        "name": "Mutton Galawati Kawab Roll",
+        "available": 1,
+        "original_price": 150,
+        "price": 150,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/hs0mcjPVEByFz4YfPvGq0i87Ou6UzTcuZ2g9RHvl.jpg"
+      },
+      {
+        "name": "Veg. Galawati Kawab Roll",
+        "available": 1,
+        "original_price": 150,
+        "price": 150,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/4AcwTd7Jewb696v6bRELpjZQapqGWdvaE2wAopFU.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Desserts",
+    "id": "desserts",
+    "items": [
+      {
+        "name": "Gulab Jamun (2 pieces)",
+        "available": 1,
+        "original_price": 50,
+        "price": 50,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/ETfba2xRLOXn7ABN9MUgckReuQ6tY03Ivl8TpG6S.jpg"
+      },
+      {
+        "name": "Gajar Halwa (100 Gm)",
+        "available": 0,
+        "original_price": 99,
+        "price": 99,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/ykADvWcMAiyuMtYW8jkwM02sEGaI1fPgsyJAj3hA.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Drinks",
+    "id": "drinks",
+    "items": [
+      {
+        "name": "Mohobaat-E-Sharbat",
+        "available": 1,
+        "original_price": 99,
+        "price": 99,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-02/d9n6cwaJEje3m5W8PZBsZXE88aAgJIYLksZRUozM.jpg"
+      },
+      {
+        "name": "Coca Cola 250ml",
+        "available": 1,
+        "original_price": 50,
+        "price": 50,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/5s7J1uawIw2Scbdi2H4IjycgHCec0Z0aJgWEtOeH.jpg"
+      },
+      {
+        "name": "Sprite 250ml",
+        "available": 1,
+        "original_price": 50,
+        "price": 50,
+        "img": "https://prime-c0.static.urbanpiper.com/al-qayyoom-biryani-and-mandi-house/2025-03/FP6QIGj9GXRrMTOM67Rqcq3cOF3HO4XC9QBlCUV7.jpg"
+      }
+    ]
+  }
+]
